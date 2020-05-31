@@ -1,0 +1,3 @@
+# completed_ml_projects_in_jupyter
+A set of folders with completed ML pojects that can be opened
+with a Jupyter notebook on a Mac...
