@@ -1,4 +1,6 @@
-to prepare the code for execution on a laptop do this
+A large collection of data science models in Python, plain files and Jupyter notebooks.
+
+To prepare the code for execution on a Mac do this
 % cd Desktop/ML_task/
 % python3 -m venv  .
 % source ./venv activate
